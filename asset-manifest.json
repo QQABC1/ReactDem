@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ReactDem/static/css/main.ccf73b23.css",
-    "main.js": "/ReactDem/static/js/main.b0a717fe.js",
+    "main.js": "/ReactDem/static/js/main.19763bb8.js",
     "index.html": "/ReactDem/index.html",
     "main.ccf73b23.css.map": "/ReactDem/static/css/main.ccf73b23.css.map",
-    "main.b0a717fe.js.map": "/ReactDem/static/js/main.b0a717fe.js.map"
+    "main.19763bb8.js.map": "/ReactDem/static/js/main.19763bb8.js.map"
   },
   "entrypoints": [
     "static/css/main.ccf73b23.css",
-    "static/js/main.b0a717fe.js"
+    "static/js/main.19763bb8.js"
   ]
 }
